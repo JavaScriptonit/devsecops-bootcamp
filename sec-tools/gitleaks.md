@@ -39,3 +39,13 @@ docker run -v /Users/andreyshabunov/PhpstormProjects/devsecops-bootcamp-group/ju
 ## Customize OWN rules for scanning:
 https://github.com/gitleaks/gitleaks/blob/master/config/gitleaks.toml
 
+## Add .gitleaks.toml:
+Добавить конфиг для того чтобы допустить файлы при проверке
+
+```
+[extend]
+useDefault = true
+
+[allowlist]
+paths = ['test', '.*\/test\/.*']
+```
