@@ -1,3 +1,6 @@
+# ПРОДОЛЖИТЬ КУРС С УРОКА 0:00:
+https://coursehunter.net/course/devsecops-bootcamp?lesson=25
+
 ## DevSecOps Bootcamp
 https://coursehunter.net/course/devsecops-bootcamp
 
