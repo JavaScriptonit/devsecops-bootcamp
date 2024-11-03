@@ -1,5 +1,6 @@
-# ПРОДОЛЖИТЬ КУРС С УРОКА 0:00:
+# ПРОДОЛЖИТЬ КУРС С УРОКА 15:28:
 https://coursehunter.net/course/devsecops-bootcamp?lesson=36
+- Добавить проект в хитхаб для создания/удаление серверов
 
 ## DevSecOps Bootcamp
 https://coursehunter.net/course/devsecops-bootcamp
