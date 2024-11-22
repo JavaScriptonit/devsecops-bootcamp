@@ -1,5 +1,5 @@
-# ПРОДОЛЖИТЬ КУРС С УРОКА 41 - 00:00:
-https://coursehunter.net/course/devsecops-bootcamp?lesson=41
+# ПРОДОЛЖИТЬ КУРС С УРОКА 42 - 00:00:
+https://coursehunter.net/course/devsecops-bootcamp?lesson=42
 
 Финал 1ой части - https://coursehunter.net/course/devsecops-bootcamp?lesson=75
 2ая часть будет скоро добавлена в курс https://coursehunter.net/course/devsecops-bootcamp
