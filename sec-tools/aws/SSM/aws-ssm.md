@@ -1,5 +1,6 @@
 https://coursehunter.net/course/devsecops-bootcamp?lesson=52
 https://coursehunter.net/course/devsecops-bootcamp?lesson=53
+https://coursehunter.net/course/devsecops-bootcamp?lesson=54 - use AWS SSM instead of SSH commands
 # AWS Systems Manager (SSM)
 
 AWS Systems Manager (SSM) — это управляемый сервис, предназначенный для упрощения управления и автоматизации операций на ваших ресурсах AWS и локальных серверов. SSM предоставляет надежный способ управления инстансами EC2, контейнерами и локальными серверами в рамках вашей организации.
