@@ -1,8 +1,8 @@
 # ПРОДОЛЖИТЬ КУРС С УРОКА 64 - 00:00:
-https://coursehunter.net/course/devsecops-bootcamp?lesson=64
+https://coursehunter.net/course/devsecops-bootcamp?lesson=65
 
 Финал 1ой части - https://coursehunter.net/course/devsecops-bootcamp?lesson=75
-2ая часть будет скоро добавлена в курс https://coursehunter.net/course/devsecops-bootcamp
+2ая часть (75 - 147 видео) добавлена в курс https://coursehunter.net/course/devsecops-bootcamp
 
 ## DevSecOps Bootcamp
 https://coursehunter.net/course/devsecops-bootcamp
